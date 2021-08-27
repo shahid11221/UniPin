@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UniPin</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="phone_number">phone number</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="signup">signup</string>
+    <string name="goto_login">goto login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="make_new_account">Make new account</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

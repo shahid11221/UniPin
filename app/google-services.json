@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153779679293",
+    "project_id": "unipin-c063b",
+    "storage_bucket": "unipin-c063b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153779679293:android:491a1ef51b296f7992ba54",
+        "android_client_info": {
+          "package_name": "com.example.unipin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153779679293-fd6tiotr8tn1203bbh1vdmaqn79gren1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCROzSc4wFtHrUcCkSIQ7eU1F3d_ly-AGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153779679293-fd6tiotr8tn1203bbh1vdmaqn79gren1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

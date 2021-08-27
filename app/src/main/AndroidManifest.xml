@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.unipin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.NotificationDetail"></activity>
+        <activity android:name=".activities.myProfile" />
+        <activity android:name=".activities.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.AddNotification" />
+        <activity android:name=".activities.Notification" />
+        <activity android:name=".activities.AddUniversity" />
+        <activity android:name=".activities.Departments" />
+        <activity
+            android:name=".activities.Universities"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activities.SignupScreen" />
+        <activity android:name=".activities.LoginScreen" />
+    </application>
+
+</manifest>

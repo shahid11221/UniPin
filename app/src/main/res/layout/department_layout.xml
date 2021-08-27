@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="125dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/layout_background_uni"
+        android:id="@+id/department_layout"
+        android:layout_margin="10dp">
+
+            <TextView
+                android:id="@+id/department_tv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#fff"
+                android:text="Faculty of Nutrition Sciences"
+                android:textSize="25dp"
+                android:gravity="center" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
